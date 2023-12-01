@@ -11,3 +11,4 @@ replay_pid*
 ## Visual Studio Code
 .vscode/
 .code-workspace
+bin/
